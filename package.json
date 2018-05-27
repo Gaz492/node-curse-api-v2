@@ -1,0 +1,13 @@
+{
+  "name": "node-curse-api-wrapper",
+  "version": "1.0.0",
+  "description": "Wrapper for curse api",
+  "main": "lib/index.js",
+  "author": "Gareth Williams",
+  "license": "None",
+  "private": true,
+  "dependencies": {
+    "request": "^2.87.0",
+    "request-promise-native": "^1.0.5"
+  }
+}
