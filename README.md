@@ -1,0 +1,1 @@
+node-curse-api-wrapper
