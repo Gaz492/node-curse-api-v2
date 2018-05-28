@@ -1,11 +1,16 @@
 {
-  "name": "node-curse-api-wrapper",
-  "version": "1.0.0",
+  "name": "curse-api-wrapper",
+  "version": "1.0.1",
   "description": "Wrapper for curse api",
   "main": "lib/index.js",
   "author": "Gareth Williams",
-  "license": "None",
-  "private": true,
+  "license": "MIT",
+  "repositories": [
+    {
+      "type": "git",
+      "url": "https://github.com/Gaz492/node-curse-api-v2.git"
+    }
+  ],
   "dependencies": {
     "request": "^2.87.0",
     "request-promise-native": "^1.0.5"
